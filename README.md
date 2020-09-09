@@ -1,5 +1,16 @@
 # Managing Multiple Clusters
 
+## Dependencies
+
+* kubectl 
+* krew 
+
+### Krew Plugins 
+
+* krew install konfig
+* krew install config_cleanup
+* krew install config_swap
+
 ## Understand your current context
 
 ```shell
